@@ -1,0 +1,12 @@
+aderpinillo@MacBook-Air ASSETS % git status
+
+aderpinillo@MacBook-Air ASSETS % git add index.html 
+
+aderpinillo@MacBook-Air ASSETS % git status      
+
+
+aderpinillo@MacBook-Air ASSETS % git commit -m "Mi primer archivo en git"
+
+
+aderpinillo@MacBook-Air ASSETS % git push
+
