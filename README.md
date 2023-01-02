@@ -1,2 +1,2 @@
-# ASSETS
+# assets
 My projects
